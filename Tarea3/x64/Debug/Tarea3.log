@@ -1,0 +1,9 @@
+﻿  Tarea3.cpp
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(106,16): warning C4101: 'y': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(132,16): warning C4101: 'y': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(165,16): warning C4101: 'y': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(281,16): warning C4101: 'y': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(281,13): warning C4101: 'x': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(281,19): warning C4101: 'angle': variable local sin referencia
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" salió con el código 1104.
+LINK : fatal error LNK1104: no se puede abrir el archivo 'glut32.lib'

@@ -1,0 +1,8 @@
+﻿  Tarea3.cpp
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(106,16): warning C4101: 'y': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(132,16): warning C4101: 'y': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(165,16): warning C4101: 'y': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(281,16): warning C4101: 'y': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(281,13): warning C4101: 'x': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Tarea3\Tarea3.cpp(281,19): warning C4101: 'angle': variable local sin referencia
+  Tarea3.vcxproj -> A:\Todo\Downloads\23I\Graficas\Tarea3\Tarea3\Debug\Tarea3.exe
